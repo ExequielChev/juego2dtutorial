@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Juego2DTutorial"
-run/main_scene="uid://cet8i8yxmpurv"
+run/main_scene="uid://bwr4lf61ycpjs"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
